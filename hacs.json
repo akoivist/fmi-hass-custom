@@ -1,3 +1,4 @@
 {
-  "name": "My awesome thing"
+  "name": "My awesome thing",
+  "content_in_root": true
 }
