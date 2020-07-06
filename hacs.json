@@ -1,4 +1,5 @@
 {
-  "name": "My awesome thing",
-  "content_in_root": true
+  "name": "Finnish FMI weather",
+  "content_in_root": true,
+  "country": "FI"
 }
