@@ -1,5 +1,6 @@
 {
   "name": "Finnish FMI weather",
   "content_in_root": true,
-  "country": "FI"
+  "country": "FI",
+  "render_readme": true
 }
